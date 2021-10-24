@@ -23,8 +23,8 @@ const items = records.reduce((acc, record) => ({
 		},
 		buyPrice: record['BUY PRICE'],
 		sellPrice: record['SELL PRICE'],
-		slot: record['SLOT'],
-		page: record['PAGE']
+		slot: Number(record['SLOT']),
+		page: Number(record['PAGE'])
 	}
 }), {});
 
