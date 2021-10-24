@@ -21,8 +21,8 @@ const items = records.reduce((acc, record) => ({
 			material: record['NAME'],
 			quantity: 1,
 		},
-		buyPrice: record['BUY PRICE'],
-		sellPrice: record['SELL PRICE'],
+		buyPrice: record['BUY PRICE'].replace('$', ''),
+		sellPrice: record['SELL PRICE'].replace('$', ''),
 		slot: Number(record['SLOT']),
 		page: Number(record['PAGE'])
 	}

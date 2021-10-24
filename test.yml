@@ -9,8 +9,8 @@ blocks:
       item:
         material: GRASS_BLOCK
         quantity: 1
-      buyPrice: $2.00
-      sellPrice: $0.60
+      buyPrice: "2.00"
+      sellPrice: "0.60"
       slot: 1
       page: 1
     2:
@@ -18,8 +18,8 @@ blocks:
       item:
         material: DIRT
         quantity: 1
-      buyPrice: $1.00
-      sellPrice: $0.30
+      buyPrice: "1.00"
+      sellPrice: "0.30"
       slot: 2
       page: 1
     3:
@@ -27,8 +27,8 @@ blocks:
       item:
         material: COARSE_DIRT
         quantity: 1
-      buyPrice: $2.30
-      sellPrice: $0.70
+      buyPrice: "2.30"
+      sellPrice: "0.70"
       slot: 3
       page: 1
     4:
@@ -36,8 +36,8 @@ blocks:
       item:
         material: COBBLESTONE
         quantity: 1
-      buyPrice: $2.50
-      sellPrice: $0.80
+      buyPrice: "2.50"
+      sellPrice: "0.80"
       slot: 4
       page: 1
     5:
@@ -45,8 +45,8 @@ blocks:
       item:
         material: STONE
         quantity: 1
-      buyPrice: $2.70
-      sellPrice: $1.00
+      buyPrice: "2.70"
+      sellPrice: "1.00"
       slot: 5
       page: 1
     6:
@@ -54,8 +54,8 @@ blocks:
       item:
         material: MOSSY_COBBLESTONE
         quantity: 1
-      buyPrice: $3.00
-      sellPrice: $1.05
+      buyPrice: "3.00"
+      sellPrice: "1.05"
       slot: 6
       page: 1
     7:
@@ -63,8 +63,8 @@ blocks:
       item:
         material: MOSSY_STONE
         quantity: 1
-      buyPrice: $3.20
-      sellPrice: $1.10
+      buyPrice: "3.20"
+      sellPrice: "1.10"
       slot: 7
       page: 1
     8:
@@ -72,8 +72,8 @@ blocks:
       item:
         material: OAK_LOG
         quantity: 1
-      buyPrice: $8.00
-      sellPrice: $2.00
+      buyPrice: "8.00"
+      sellPrice: "2.00"
       slot: 8
       page: 1
     9:
@@ -81,8 +81,8 @@ blocks:
       item:
         material: SPRUCE_LOG
         quantity: 1
-      buyPrice: $8.00
-      sellPrice: $2.00
+      buyPrice: "8.00"
+      sellPrice: "2.00"
       slot: 9
       page: 1
     10:
@@ -90,8 +90,8 @@ blocks:
       item:
         material: BIRCH_LOG
         quantity: 1
-      buyPrice: $8.00
-      sellPrice: $2.00
+      buyPrice: "8.00"
+      sellPrice: "2.00"
       slot: 10
       page: 1
     11:
@@ -99,8 +99,8 @@ blocks:
       item:
         material: JUNGLE_LOG
         quantity: 1
-      buyPrice: $8.00
-      sellPrice: $2.00
+      buyPrice: "8.00"
+      sellPrice: "2.00"
       slot: 11
       page: 1
     12:
@@ -108,8 +108,8 @@ blocks:
       item:
         material: ACACIA_LOG
         quantity: 1
-      buyPrice: $8.00
-      sellPrice: $2.00
+      buyPrice: "8.00"
+      sellPrice: "2.00"
       slot: 12
       page: 1
     13:
@@ -117,8 +117,8 @@ blocks:
       item:
         material: DARK_OAK_LOG
         quantity: 1
-      buyPrice: $8.00
-      sellPrice: $2.00
+      buyPrice: "8.00"
+      sellPrice: "2.00"
       slot: 13
       page: 1
     14:
@@ -126,8 +126,8 @@ blocks:
       item:
         material: OAK_LOG_PLANKS
         quantity: 1
-      buyPrice: $2.00
-      sellPrice: $0.60
+      buyPrice: "2.00"
+      sellPrice: "0.60"
       slot: 14
       page: 1
     15:
@@ -135,8 +135,8 @@ blocks:
       item:
         material: SPRUCE_LOG_PLANKS
         quantity: 1
-      buyPrice: $2.00
-      sellPrice: $0.60
+      buyPrice: "2.00"
+      sellPrice: "0.60"
       slot: 15
       page: 1
     16:
@@ -144,8 +144,8 @@ blocks:
       item:
         material: BIRCH_LOG_PLANKS
         quantity: 1
-      buyPrice: $2.00
-      sellPrice: $0.60
+      buyPrice: "2.00"
+      sellPrice: "0.60"
       slot: 16
       page: 1
     17:
@@ -153,8 +153,8 @@ blocks:
       item:
         material: JUNGLE_LOG_PLANKS
         quantity: 1
-      buyPrice: $2.00
-      sellPrice: $0.60
+      buyPrice: "2.00"
+      sellPrice: "0.60"
       slot: 17
       page: 1
     18:
@@ -162,8 +162,8 @@ blocks:
       item:
         material: ACACIA_LOG_PLANKS
         quantity: 1
-      buyPrice: $2.00
-      sellPrice: $0.60
+      buyPrice: "2.00"
+      sellPrice: "0.60"
       slot: 18
       page: 1
     19:
@@ -171,8 +171,8 @@ blocks:
       item:
         material: DARK_OAK_LOG_PLANKS
         quantity: 1
-      buyPrice: $2.00
-      sellPrice: $0.60
+      buyPrice: "2.00"
+      sellPrice: "0.60"
       slot: 19
       page: 1
     20:
@@ -180,8 +180,8 @@ blocks:
       item:
         material: SAND
         quantity: 1
-      buyPrice: $1.00
-      sellPrice: $0.30
+      buyPrice: "1.00"
+      sellPrice: "0.30"
       slot: 20
       page: 1
     21:
@@ -189,8 +189,8 @@ blocks:
       item:
         material: RED_SAND
         quantity: 1
-      buyPrice: $1.00
-      sellPrice: $0.30
+      buyPrice: "1.00"
+      sellPrice: "0.30"
       slot: 21
       page: 1
     22:
@@ -198,8 +198,8 @@ blocks:
       item:
         material: GRAVEL
         quantity: 1
-      buyPrice: $2.00
-      sellPrice: $0.60
+      buyPrice: "2.00"
+      sellPrice: "0.60"
       slot: 22
       page: 1
     23:
@@ -207,8 +207,8 @@ blocks:
       item:
         material: WHITE_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 23
       page: 1
     24:
@@ -216,8 +216,8 @@ blocks:
       item:
         material: ORANGE_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 24
       page: 1
     25:
@@ -225,8 +225,8 @@ blocks:
       item:
         material: MAGENTA_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 25
       page: 1
     26:
@@ -234,8 +234,8 @@ blocks:
       item:
         material: LIGHT_BLUE_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 26
       page: 1
     27:
@@ -243,8 +243,8 @@ blocks:
       item:
         material: YELLOW_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 27
       page: 1
     28:
@@ -252,8 +252,8 @@ blocks:
       item:
         material: LIME_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 28
       page: 1
     29:
@@ -261,8 +261,8 @@ blocks:
       item:
         material: PINK_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 29
       page: 1
     30:
@@ -270,8 +270,8 @@ blocks:
       item:
         material: GRAY_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 30
       page: 1
     31:
@@ -279,8 +279,8 @@ blocks:
       item:
         material: LIGHT_GRAY_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 31
       page: 1
     32:
@@ -288,8 +288,8 @@ blocks:
       item:
         material: CYAN_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 32
       page: 1
     33:
@@ -297,8 +297,8 @@ blocks:
       item:
         material: PURPLE_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 33
       page: 1
     34:
@@ -306,8 +306,8 @@ blocks:
       item:
         material: BLUE_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 34
       page: 1
     35:
@@ -315,8 +315,8 @@ blocks:
       item:
         material: BROWN_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 35
       page: 1
     36:
@@ -324,8 +324,8 @@ blocks:
       item:
         material: GREEN_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 36
       page: 1
     37:
@@ -333,8 +333,8 @@ blocks:
       item:
         material: RED_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 37
       page: 1
     38:
@@ -342,8 +342,8 @@ blocks:
       item:
         material: BLACK_WOOL
         quantity: 1
-      buyPrice: $1.50
-      sellPrice: $0.90
+      buyPrice: "1.50"
+      sellPrice: "0.90"
       slot: 38
       page: 1
     39:
@@ -351,8 +351,8 @@ blocks:
       item:
         material: SANDSTONE
         quantity: 1
-      buyPrice: $4.00
-      sellPrice: $1.00
+      buyPrice: "4.00"
+      sellPrice: "1.00"
       slot: 39
       page: 1
     40:
@@ -360,8 +360,8 @@ blocks:
       item:
         material: GLASS
         quantity: 1
-      buyPrice: $3.00
-      sellPrice: $0.95
+      buyPrice: "3.00"
+      sellPrice: "0.95"
       slot: 40
       page: 1
     41:
@@ -369,8 +369,8 @@ blocks:
       item:
         material: BRICKS
         quantity: 1
-      buyPrice: $2.30
-      sellPrice: $0.70
+      buyPrice: "2.30"
+      sellPrice: "0.70"
       slot: 41
       page: 1
     42:
@@ -378,8 +378,8 @@ blocks:
       item:
         material: BOOKSHELF
         quantity: 1
-      buyPrice: $4.00
-      sellPrice: $1.00
+      buyPrice: "4.00"
+      sellPrice: "1.00"
       slot: 42
       page: 1
     43:
@@ -387,8 +387,8 @@ blocks:
       item:
         material: ICE
         quantity: 1
-      buyPrice: $2.00
-      sellPrice: $0.50
+      buyPrice: "2.00"
+      sellPrice: "0.50"
       slot: 43
       page: 1
     44:
