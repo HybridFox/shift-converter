@@ -4,7 +4,7 @@ blocks:
     material: ""
     name: ""
   items:
-    "1":
+    1:
       type: item
       item:
         material: GRASS_BLOCK
@@ -13,7 +13,7 @@ blocks:
       sellPrice: $0.60
       slot: 1
       page: 1
-    "2":
+    2:
       type: item
       item:
         material: DIRT
@@ -22,7 +22,7 @@ blocks:
       sellPrice: $0.30
       slot: 2
       page: 1
-    "3":
+    3:
       type: item
       item:
         material: COARSE_DIRT
@@ -31,7 +31,7 @@ blocks:
       sellPrice: $0.70
       slot: 3
       page: 1
-    "4":
+    4:
       type: item
       item:
         material: COBBLESTONE
@@ -40,7 +40,7 @@ blocks:
       sellPrice: $0.80
       slot: 4
       page: 1
-    "5":
+    5:
       type: item
       item:
         material: STONE
@@ -49,7 +49,7 @@ blocks:
       sellPrice: $1.00
       slot: 5
       page: 1
-    "6":
+    6:
       type: item
       item:
         material: MOSSY_COBBLESTONE
@@ -58,7 +58,7 @@ blocks:
       sellPrice: $1.05
       slot: 6
       page: 1
-    "7":
+    7:
       type: item
       item:
         material: MOSSY_STONE
@@ -67,7 +67,7 @@ blocks:
       sellPrice: $1.10
       slot: 7
       page: 1
-    "8":
+    8:
       type: item
       item:
         material: OAK_LOG
@@ -76,7 +76,7 @@ blocks:
       sellPrice: $2.00
       slot: 8
       page: 1
-    "9":
+    9:
       type: item
       item:
         material: SPRUCE_LOG
@@ -85,7 +85,7 @@ blocks:
       sellPrice: $2.00
       slot: 9
       page: 1
-    "10":
+    10:
       type: item
       item:
         material: BIRCH_LOG
@@ -94,7 +94,7 @@ blocks:
       sellPrice: $2.00
       slot: 10
       page: 1
-    "11":
+    11:
       type: item
       item:
         material: JUNGLE_LOG
@@ -103,7 +103,7 @@ blocks:
       sellPrice: $2.00
       slot: 11
       page: 1
-    "12":
+    12:
       type: item
       item:
         material: ACACIA_LOG
@@ -112,7 +112,7 @@ blocks:
       sellPrice: $2.00
       slot: 12
       page: 1
-    "13":
+    13:
       type: item
       item:
         material: DARK_OAK_LOG
@@ -121,7 +121,7 @@ blocks:
       sellPrice: $2.00
       slot: 13
       page: 1
-    "14":
+    14:
       type: item
       item:
         material: OAK_LOG_PLANKS
@@ -130,7 +130,7 @@ blocks:
       sellPrice: $0.60
       slot: 14
       page: 1
-    "15":
+    15:
       type: item
       item:
         material: SPRUCE_LOG_PLANKS
@@ -139,7 +139,7 @@ blocks:
       sellPrice: $0.60
       slot: 15
       page: 1
-    "16":
+    16:
       type: item
       item:
         material: BIRCH_LOG_PLANKS
@@ -148,7 +148,7 @@ blocks:
       sellPrice: $0.60
       slot: 16
       page: 1
-    "17":
+    17:
       type: item
       item:
         material: JUNGLE_LOG_PLANKS
@@ -157,7 +157,7 @@ blocks:
       sellPrice: $0.60
       slot: 17
       page: 1
-    "18":
+    18:
       type: item
       item:
         material: ACACIA_LOG_PLANKS
@@ -166,7 +166,7 @@ blocks:
       sellPrice: $0.60
       slot: 18
       page: 1
-    "19":
+    19:
       type: item
       item:
         material: DARK_OAK_LOG_PLANKS
@@ -175,7 +175,7 @@ blocks:
       sellPrice: $0.60
       slot: 19
       page: 1
-    "20":
+    20:
       type: item
       item:
         material: SAND
@@ -184,7 +184,7 @@ blocks:
       sellPrice: $0.30
       slot: 20
       page: 1
-    "21":
+    21:
       type: item
       item:
         material: RED_SAND
@@ -193,7 +193,7 @@ blocks:
       sellPrice: $0.30
       slot: 21
       page: 1
-    "22":
+    22:
       type: item
       item:
         material: GRAVEL
@@ -202,7 +202,7 @@ blocks:
       sellPrice: $0.60
       slot: 22
       page: 1
-    "23":
+    23:
       type: item
       item:
         material: WHITE_WOOL
@@ -211,7 +211,7 @@ blocks:
       sellPrice: $0.90
       slot: 23
       page: 1
-    "24":
+    24:
       type: item
       item:
         material: ORANGE_WOOL
@@ -220,7 +220,7 @@ blocks:
       sellPrice: $0.90
       slot: 24
       page: 1
-    "25":
+    25:
       type: item
       item:
         material: MAGENTA_WOOL
@@ -229,7 +229,7 @@ blocks:
       sellPrice: $0.90
       slot: 25
       page: 1
-    "26":
+    26:
       type: item
       item:
         material: LIGHT_BLUE_WOOL
@@ -238,7 +238,7 @@ blocks:
       sellPrice: $0.90
       slot: 26
       page: 1
-    "27":
+    27:
       type: item
       item:
         material: YELLOW_WOOL
@@ -247,7 +247,7 @@ blocks:
       sellPrice: $0.90
       slot: 27
       page: 1
-    "28":
+    28:
       type: item
       item:
         material: LIME_WOOL
@@ -256,7 +256,7 @@ blocks:
       sellPrice: $0.90
       slot: 28
       page: 1
-    "29":
+    29:
       type: item
       item:
         material: PINK_WOOL
@@ -265,7 +265,7 @@ blocks:
       sellPrice: $0.90
       slot: 29
       page: 1
-    "30":
+    30:
       type: item
       item:
         material: GRAY_WOOL
@@ -274,7 +274,7 @@ blocks:
       sellPrice: $0.90
       slot: 30
       page: 1
-    "31":
+    31:
       type: item
       item:
         material: LIGHT_GRAY_WOOL
@@ -283,7 +283,7 @@ blocks:
       sellPrice: $0.90
       slot: 31
       page: 1
-    "32":
+    32:
       type: item
       item:
         material: CYAN_WOOL
@@ -292,7 +292,7 @@ blocks:
       sellPrice: $0.90
       slot: 32
       page: 1
-    "33":
+    33:
       type: item
       item:
         material: PURPLE_WOOL
@@ -301,7 +301,7 @@ blocks:
       sellPrice: $0.90
       slot: 33
       page: 1
-    "34":
+    34:
       type: item
       item:
         material: BLUE_WOOL
@@ -310,7 +310,7 @@ blocks:
       sellPrice: $0.90
       slot: 34
       page: 1
-    "35":
+    35:
       type: item
       item:
         material: BROWN_WOOL
@@ -319,7 +319,7 @@ blocks:
       sellPrice: $0.90
       slot: 35
       page: 1
-    "36":
+    36:
       type: item
       item:
         material: GREEN_WOOL
@@ -328,7 +328,7 @@ blocks:
       sellPrice: $0.90
       slot: 36
       page: 1
-    "37":
+    37:
       type: item
       item:
         material: RED_WOOL
@@ -337,7 +337,7 @@ blocks:
       sellPrice: $0.90
       slot: 37
       page: 1
-    "38":
+    38:
       type: item
       item:
         material: BLACK_WOOL
@@ -346,7 +346,7 @@ blocks:
       sellPrice: $0.90
       slot: 38
       page: 1
-    "39":
+    39:
       type: item
       item:
         material: SANDSTONE
@@ -355,7 +355,7 @@ blocks:
       sellPrice: $1.00
       slot: 39
       page: 1
-    "40":
+    40:
       type: item
       item:
         material: GLASS
@@ -364,7 +364,7 @@ blocks:
       sellPrice: $0.95
       slot: 40
       page: 1
-    "41":
+    41:
       type: item
       item:
         material: BRICKS
@@ -373,7 +373,7 @@ blocks:
       sellPrice: $0.70
       slot: 41
       page: 1
-    "42":
+    42:
       type: item
       item:
         material: BOOKSHELF
@@ -382,7 +382,7 @@ blocks:
       sellPrice: $1.00
       slot: 42
       page: 1
-    "43":
+    43:
       type: item
       item:
         material: ICE
@@ -391,7 +391,7 @@ blocks:
       sellPrice: $0.50
       slot: 43
       page: 1
-    "44":
+    44:
       type: item
       item:
         material: ""
@@ -400,7 +400,7 @@ blocks:
       sellPrice: ""
       slot: 44
       page: 1
-    "45":
+    45:
       type: item
       item:
         material: ""
@@ -409,7 +409,7 @@ blocks:
       sellPrice: ""
       slot: 45
       page: 1
-    "46":
+    46:
       type: item
       item:
         material: ""
@@ -418,7 +418,7 @@ blocks:
       sellPrice: ""
       slot: 46
       page: 1
-    "47":
+    47:
       type: item
       item:
         material: ""
@@ -427,7 +427,7 @@ blocks:
       sellPrice: ""
       slot: 47
       page: 1
-    "48":
+    48:
       type: item
       item:
         material: ""
@@ -436,7 +436,7 @@ blocks:
       sellPrice: ""
       slot: 48
       page: 1
-    "49":
+    49:
       type: item
       item:
         material: ""
@@ -445,7 +445,7 @@ blocks:
       sellPrice: ""
       slot: 49
       page: 1
-    "50":
+    50:
       type: item
       item:
         material: ""
@@ -454,7 +454,7 @@ blocks:
       sellPrice: ""
       slot: 50
       page: 1
-    "51":
+    51:
       type: item
       item:
         material: ""
@@ -463,7 +463,7 @@ blocks:
       sellPrice: ""
       slot: 51
       page: 1
-    "52":
+    52:
       type: item
       item:
         material: ""
@@ -472,7 +472,7 @@ blocks:
       sellPrice: ""
       slot: 52
       page: 1
-    "53":
+    53:
       type: item
       item:
         material: ""
@@ -481,7 +481,7 @@ blocks:
       sellPrice: ""
       slot: 53
       page: 1
-    "54":
+    54:
       type: item
       item:
         material: ""

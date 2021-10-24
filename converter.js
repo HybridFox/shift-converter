@@ -35,6 +35,6 @@ fs.writeFileSync(argv.o, stringify({
 			material: '',
 			name: '',
 		},
-		items
+		items: new Map(Object.keys(items).map((key) => [Number(key), items[key]]))
 	}
 }))
